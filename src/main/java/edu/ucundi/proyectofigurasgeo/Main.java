@@ -6,9 +6,12 @@
 package edu.ucundi.proyectofigurasgeo;
 
 /**
- * Clase Padre de cuadrado y rectangulo
+ * Clase Main de ejecucion del programa
  * @author Eduard Fierro, Arley Rivera
  */
-public class CuaRect {
+public class Main {
+    public static void main(String[] args) {
+        Principal prin = new Principal();
+    }
     
 }
