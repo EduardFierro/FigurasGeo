@@ -6,8 +6,8 @@
 package edu.ucundi.proyectofigurasgeo;
 
 /**
- *
- * @author arley
+ * Clase Hija cuadrado 
+ * @author Eduard Fierro, Arley Rivera
  */
 public class Cuadrado {
     

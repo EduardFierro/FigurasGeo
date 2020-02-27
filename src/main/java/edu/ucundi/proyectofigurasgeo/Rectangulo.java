@@ -6,9 +6,9 @@
 package edu.ucundi.proyectofigurasgeo;
 
 /**
- * Clase Super Padre de las figuras geometricas
- * @author Eduard Fierro, Arley Rivera
+ * Clase Hija Rectangulo 
+ * @author Eduard Fierro, Arley Rivera 
  */
-public class FigurasGeometricas {
+public class Rectangulo extends FigurasGeometricas{
     
 }

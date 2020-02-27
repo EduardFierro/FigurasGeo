@@ -6,9 +6,9 @@
 package edu.ucundi.proyectofigurasgeo;
 
 /**
- * Clase Super Padre de las figuras geometricas
+ * Clase Padre de cuadrado y rectangulo
  * @author Eduard Fierro, Arley Rivera
  */
-public class FigurasGeometricas {
+public class CuaRect {
     
 }
